@@ -9,11 +9,10 @@ To use the program, the camera must first be calibrated. To do this, select the 
 - Python OS module
 - Python 3.6.1
 - A webcam
-# Install and Run:
-To install:
+# Install
 -	Ensure that all the required dependencies are downloaded and installed on your computer
 -	Download the ‘main.py’ file to your computer
-To run:
+# Run
 -	Open up a command prompt
 -	Navigate to the directory where the file is stored
 -	Type “python main.py” or “python.exe main.py”
